@@ -1,1 +1,5 @@
 *.bak
+*.db
+*.log
+/target
+/bin
